@@ -1,1 +1,1 @@
-print("LINUX VERSION")
+print("LINUX VERSION IS READY")
