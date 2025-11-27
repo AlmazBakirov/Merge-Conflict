@@ -1,1 +1,1 @@
-print("LINUX VERSION IS READY done all")
+print("LINUX VERSION IS READY done all at once")
